@@ -4,6 +4,7 @@
   <div
     class="w-1/2 mx-auto mt-10 shadow-2xl shadow-gray-300 rounded-box"
     v-show="!isLoading"
+    style="width: 380px"
   >
     <div class="avatar flex justify-center mt-5">
       <div class="w-24 rounded-full cursor-pointer my-5">

@@ -3,6 +3,7 @@
     class="w-1/2 mx-auto mt-10 shadow-2xl shadow-gray-300 rounded-box"
     @submit="onClick"
     :validation-schema="schema"
+    style="width: 380px"
   >
     <h1 class="text-2xl font-bold text-center">注册</h1>
     <div class="w-3/4 mx-auto">
