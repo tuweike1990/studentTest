@@ -1,0 +1,56 @@
+{
+  "name": "vue-student-demo",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "main": "electron/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "electron:dev": "electron-vite dev",
+    "electron:build": "electron-vite build && electron-builder"
+  },
+  "build": {
+    "appId": "com.vue.student.demo",
+    "productName": "VueStudentDemo",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "electron/**/*"
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "public/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    }
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^10.4.0",
+    "@vitejs/plugin-vue": "^6.0.7",
+    "autoprefixer": "^10.5.0",
+    "electron": "^42.2.0",
+    "electron-builder": "^26.8.1",
+    "electron-vite": "^2.3.0",
+    "postcss": "^8.5.15",
+    "tailwindcss": "^4.3.0",
+    "vite-plugin-vue-devtools": "^7.7.9"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.106.2",
+    "@tailwindcss/vite": "^4.3.0",
+    "daisyui": "^5.5.20",
+    "i18n": "^0.15.3",
+    "pinia": "^3.0.4",
+    "vee-validate": "^4.15.1",
+    "vue": "^3.5.34",
+    "vue-router": "^4.6.4",
+    "vue-toastification": "^2.0.0-rc.5",
+    "yup": "^1.7.1"
+  }
+}

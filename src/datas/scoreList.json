@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "name": "赵六",
+    "class": "一年级1班",
+    "subject": "物理",
+    "semester": "第一semester",
+    "score": 74
+  },
+  {
+    "id": 2,
+    "name": "周十一",
+    "class": "三年级2班",
+    "subject": "英语",
+    "semester": "第二semester",
+    "score": 89
+  },
+  {
+    "id": 3,
+    "name": "周十一",
+    "class": "二年级2班",
+    "subject": "生物",
+    "semester": "第一semester",
+    "score": 96
+  },
+  {
+    "id": 4,
+    "name": "黄十",
+    "class": "三年级1班",
+    "subject": "英语",
+    "semester": "第一semester",
+    "score": 64
+  },
+  {
+    "id": 5,
+    "name": "刘八",
+    "class": "一年级2班",
+    "subject": "化学",
+    "semester": "第一semester",
+    "score": 87
+  },
+  {
+    "id": 6,
+    "name": "张三",
+    "class": "二年级2班",
+    "subject": "数学",
+    "semester": "第一semester",
+    "score": 99
+  },
+  {
+    "id": 7,
+    "name": "陈七",
+    "class": "一年级2班",
+    "subject": "英语",
+    "semester": "第二semester",
+    "score": 67
+  },
+  {
+    "id": 8,
+    "name": "刘八",
+    "class": "二年级2班",
+    "subject": "语文",
+    "semester": "第二semester",
+    "score": 97
+  },
+  {
+    "id": 9,
+    "name": "李四",
+    "class": "三年级1班",
+    "subject": "语文",
+    "semester": "第二semester",
+    "score": 62
+  },
+  {
+    "id": 10,
+    "name": "赵六",
+    "class": "一年级2班",
+    "subject": "生物",
+    "semester": "第二semester",
+    "score": 68
+  },
+  {
+    "id": 11,
+    "name": "黄十",
+    "class": "二年级1班",
+    "subject": "数学",
+    "semester": "第一semester",
+    "score": 72
+  },
+  {
+    "id": 12,
+    "name": "黄十",
+    "class": "一年级2班",
+    "subject": "数学",
+    "semester": "第二semester",
+    "score": 88
+  },
+  {
+    "id": 13,
+    "name": "赵六",
+    "class": "三年级1班",
+    "subject": "英语",
+    "semester": "第二semester",
+    "score": 91
+  },
+  {
+    "id": 14,
+    "name": "张三",
+    "class": "三年级2班",
+    "subject": "化学",
+    "semester": "第一semester",
+    "score": 94
+  },
+  {
+    "id": 15,
+    "name": "杨九",
+    "class": "二年级2班",
+    "subject": "数学",
+    "semester": "第一semester",
+    "score": 90
+  },
+  {
+    "id": 16,
+    "name": "李四",
+    "class": "一年级2班",
+    "subject": "化学",
+    "semester": "第二semester",
+    "score": 63
+  },
+  {
+    "id": 17,
+    "name": "刘八",
+    "class": "一年级2班",
+    "subject": "数学",
+    "semester": "第二semester",
+    "score": 75
+  },
+  {
+    "id": 18,
+    "name": "赵六",
+    "class": "三年级2班",
+    "subject": "化学",
+    "semester": "第一semester",
+    "score": 93
+  },
+  {
+    "id": 19,
+    "name": "黄十",
+    "class": "三年级1班",
+    "subject": "化学",
+    "semester": "第一semester",
+    "score": 68
+  },
+  {
+    "id": 20,
+    "name": "杨九",
+    "class": "二年级1班",
+    "subject": "物理",
+    "semester": "第一semester",
+    "score": 98
+  },
+  {
+    "id": 21,
+    "name": "吴十二",
+    "class": "一年级1班",
+    "subject": "语文",
+    "semester": "第二semester",
+    "score": 80
+  },
+  {
+    "id": 22,
+    "name": "李四",
+    "class": "一年级2班",
+    "subject": "数学",
+    "semester": "第二semester",
+    "score": 84
+  },
+  {
+    "id": 23,
+    "name": "李四",
+    "class": "一年级2班",
+    "subject": "数学",
+    "semester": "第二semester",
+    "score": 67
+  },
+  {
+    "id": 24,
+    "name": "赵六",
+    "class": "二年级1班",
+    "subject": "化学",
+    "semester": "第一semester",
+    "score": 86
+  },
+  {
+    "id": 25,
+    "name": "王五",
+    "class": "二年级1班",
+    "subject": "数学",
+    "semester": "第一semester",
+    "score": 62
+  },
+  {
+    "id": 26,
+    "name": "黄十",
+    "class": "二年级2班",
+    "subject": "数学",
+    "semester": "第一semester",
+    "score": 86
+  },
+  {
+    "id": 27,
+    "name": "周十一",
+    "class": "一年级1班",
+    "subject": "物理",
+    "semester": "第一semester",
+    "score": 95
+  },
+  {
+    "id": 28,
+    "name": "刘八",
+    "class": "二年级2班",
+    "subject": "化学",
+    "semester": "第一semester",
+    "score": 96
+  },
+  {
+    "id": 29,
+    "name": "陈七",
+    "class": "二年级2班",
+    "subject": "数学",
+    "semester": "第二semester",
+    "score": 67
+  },
+  {
+    "id": 30,
+    "name": "李四",
+    "class": "二年级2班",
+    "subject": "数学",
+    "semester": "第二semester",
+    "score": 87
+  },
+  {
+    "id": 31,
+    "name": "赵六",
+    "class": "三年级1班",
+    "subject": "化学",
+    "semester": "第一semester",
+    "score": 94
+  },
+  {
+    "id": 32,
+    "name": "陈七",
+    "class": "三年级2班",
+    "subject": "英语",
+    "semester": "第二semester",
+    "score": 71
+  },
+  {
+    "id": 33,
+    "name": "周十一",
+    "class": "三年级1班",
+    "subject": "化学",
+    "semester": "第一semester",
+    "score": 80
+  },
+  {
+    "id": 34,
+    "name": "王五",
+    "class": "一年级2班",
+    "subject": "英语",
+    "semester": "第二semester",
+    "score": 62
+  },
+  {
+    "id": 35,
+    "name": "陈七",
+    "class": "一年级1班",
+    "subject": "语文",
+    "semester": "第二semester",
+    "score": 64
+  },
+  {
+    "id": 36,
+    "name": "陈七",
+    "class": "二年级1班",
+    "subject": "生物",
+    "semester": "第一semester",
+    "score": 99
+  },
+  {
+    "id": 37,
+    "name": "赵六",
+    "class": "一年级1班",
+    "subject": "化学",
+    "semester": "第二semester",
+    "score": 97
+  },
+  {
+    "id": 38,
+    "name": "赵六",
+    "class": "二年级2班",
+    "subject": "生物",
+    "semester": "第二semester",
+    "score": 87
+  },
+  {
+    "id": 39,
+    "name": "陈七",
+    "class": "三年级2班",
+    "subject": "数学",
+    "semester": "第一semester",
+    "score": 74
+  },
+  {
+    "id": 40,
+    "name": "李四",
+    "class": "一年级1班",
+    "subject": "物理",
+    "semester": "第二semester",
+    "score": 88
+  },
+  {
+    "id": 41,
+    "name": "赵六",
+    "class": "三年级2班",
+    "subject": "数学",
+    "semester": "第二semester",
+    "score": 98
+  },
+  {
+    "id": 42,
+    "name": "黄十",
+    "class": "一年级2班",
+    "subject": "化学",
+    "semester": "第一semester",
+    "score": 92
+  },
+  {
+    "id": 43,
+    "name": "杨九",
+    "class": "二年级2班",
+    "subject": "英语",
+    "semester": "第二semester",
+    "score": 96
+  },
+  {
+    "id": 44,
+    "name": "杨九",
+    "class": "一年级2班",
+    "subject": "化学",
+    "semester": "第二semester",
+    "score": 93
+  },
+  {
+    "id": 45,
+    "name": "陈七",
+    "class": "二年级2班",
+    "subject": "物理",
+    "semester": "第一semester",
+    "score": 78
+  },
+  {
+    "id": 46,
+    "name": "王五",
+    "class": "一年级2班",
+    "subject": "英语",
+    "semester": "第二semester",
+    "score": 73
+  },
+  {
+    "id": 47,
+    "name": "刘八",
+    "class": "一年级2班",
+    "subject": "语文",
+    "semester": "第一semester",
+    "score": 86
+  },
+  {
+    "id": 48,
+    "name": "张三",
+    "class": "三年级2班",
+    "subject": "物理",
+    "semester": "第一semester",
+    "score": 67
+  },
+  {
+    "id": 49,
+    "name": "王五",
+    "class": "一年级1班",
+    "subject": "数学",
+    "semester": "第二semester",
+    "score": 81
+  },
+  {
+    "id": 50,
+    "name": "黄十",
+    "class": "二年级2班",
+    "subject": "数学",
+    "semester": "第二semester",
+    "score": 99
+  },
+  {
+    "id": 51,
+    "name": "周十一",
+    "class": "三年级2班",
+    "subject": "化学",
+    "semester": "第二semester",
+    "score": 82
+  },
+  {
+    "id": 52,
+    "name": "张三",
+    "class": "一年级1班",
+    "subject": "化学",
+    "semester": "第二semester",
+    "score": 87
+  },
+  {
+    "id": 53,
+    "name": "黄十",
+    "class": "三年级1班",
+    "subject": "生物",
+    "semester": "第一semester",
+    "score": 95
+  },
+  {
+    "id": 54,
+    "name": "赵六",
+    "class": "三年级1班",
+    "subject": "语文",
+    "semester": "第一semester",
+    "score": 67
+  },
+  {
+    "id": 55,
+    "name": "杨九",
+    "class": "二年级2班",
+    "subject": "语文",
+    "semester": "第一semester",
+    "score": 96
+  },
+  {
+    "id": 56,
+    "name": "赵六",
+    "class": "三年级1班",
+    "subject": "数学",
+    "semester": "第二semester",
+    "score": 99
+  },
+  {
+    "id": 57,
+    "name": "李四",
+    "class": "一年级2班",
+    "subject": "物理",
+    "semester": "第二semester",
+    "score": 88
+  },
+  {
+    "id": 58,
+    "name": "王五",
+    "class": "三年级1班",
+    "subject": "英语",
+    "semester": "第一semester",
+    "score": 72
+  },
+  {
+    "id": 59,
+    "name": "赵六",
+    "class": "二年级1班",
+    "subject": "数学",
+    "semester": "第一semester",
+    "score": 61
+  },
+  {
+    "id": 60,
+    "name": "陈七",
+    "class": "一年级2班",
+    "subject": "数学",
+    "semester": "第一semester",
+    "score": 69
+  },
+  {
+    "id": 61,
+    "name": "陈七",
+    "class": "一年级1班",
+    "subject": "英语",
+    "semester": "第一semester",
+    "score": 75
+  },
+  {
+    "id": 62,
+    "name": "黄十",
+    "class": "三年级1班",
+    "subject": "化学",
+    "semester": "第一semester",
+    "score": 60
+  },
+  {
+    "id": 63,
+    "name": "刘八",
+    "class": "一年级2班",
+    "subject": "物理",
+    "semester": "第二semester",
+    "score": 87
+  },
+  {
+    "id": 64,
+    "name": "王五",
+    "class": "一年级2班",
+    "subject": "生物",
+    "semester": "第一semester",
+    "score": 86
+  },
+  {
+    "id": 65,
+    "name": "周十一",
+    "class": "二年级2班",
+    "subject": "化学",
+    "semester": "第二semester",
+    "score": 75
+  },
+  {
+    "id": 66,
+    "name": "王五",
+    "class": "一年级2班",
+    "subject": "英语",
+    "semester": "第二semester",
+    "score": 69
+  },
+  {
+    "id": 67,
+    "name": "陈七",
+    "class": "三年级1班",
+    "subject": "化学",
+    "semester": "第一semester",
+    "score": 87
+  },
+  {
+    "id": 68,
+    "name": "吴十二",
+    "class": "一年级2班",
+    "subject": "生物",
+    "semester": "第一semester",
+    "score": 98
+  },
+  {
+    "id": 69,
+    "name": "黄十",
+    "class": "一年级1班",
+    "subject": "物理",
+    "semester": "第二semester",
+    "score": 66
+  },
+  {
+    "id": 70,
+    "name": "陈七",
+    "class": "一年级1班",
+    "subject": "物理",
+    "semester": "第二semester",
+    "score": 66
+  },
+  {
+    "id": 71,
+    "name": "赵六",
+    "class": "一年级1班",
+    "subject": "物理",
+    "semester": "第一semester",
+    "score": 89
+  },
+  {
+    "id": 72,
+    "name": "周十一",
+    "class": "三年级2班",
+    "subject": "语文",
+    "semester": "第二semester",
+    "score": 72
+  },
+  {
+    "id": 73,
+    "name": "赵六",
+    "class": "一年级2班",
+    "subject": "物理",
+    "semester": "第一semester",
+    "score": 94
+  },
+  {
+    "id": 74,
+    "name": "周十一",
+    "class": "二年级2班",
+    "subject": "生物",
+    "semester": "第二semester",
+    "score": 89
+  },
+  {
+    "id": 75,
+    "name": "李四",
+    "class": "三年级2班",
+    "subject": "数学",
+    "semester": "第二semester",
+    "score": 82
+  },
+  {
+    "id": 76,
+    "name": "张三",
+    "class": "三年级2班",
+    "subject": "物理",
+    "semester": "第一semester",
+    "score": 100
+  },
+  {
+    "id": 77,
+    "name": "刘八",
+    "class": "一年级1班",
+    "subject": "化学",
+    "semester": "第二semester",
+    "score": 79
+  },
+  {
+    "id": 78,
+    "name": "黄十",
+    "class": "三年级1班",
+    "subject": "英语",
+    "semester": "第一semester",
+    "score": 79
+  },
+  {
+    "id": 79,
+    "name": "王五",
+    "class": "二年级2班",
+    "subject": "数学",
+    "semester": "第一semester",
+    "score": 73
+  },
+  {
+    "id": 80,
+    "name": "张三",
+    "class": "二年级2班",
+    "subject": "化学",
+    "semester": "第二semester",
+    "score": 96
+  },
+  {
+    "id": 81,
+    "name": "黄十",
+    "class": "三年级2班",
+    "subject": "英语",
+    "semester": "第一semester",
+    "score": 91
+  },
+  {
+    "id": 82,
+    "name": "黄十",
+    "class": "三年级2班",
+    "subject": "语文",
+    "semester": "第二semester",
+    "score": 61
+  },
+  {
+    "id": 83,
+    "name": "黄十",
+    "class": "一年级2班",
+    "subject": "生物",
+    "semester": "第一semester",
+    "score": 63
+  },
+  {
+    "id": 84,
+    "name": "杨九",
+    "class": "一年级1班",
+    "subject": "英语",
+    "semester": "第二semester",
+    "score": 73
+  },
+  {
+    "id": 85,
+    "name": "周十一",
+    "class": "二年级2班",
+    "subject": "语文",
+    "semester": "第二semester",
+    "score": 97
+  },
+  {
+    "id": 86,
+    "name": "黄十",
+    "class": "一年级2班",
+    "subject": "物理",
+    "semester": "第二semester",
+    "score": 73
+  },
+  {
+    "id": 87,
+    "name": "王五",
+    "class": "三年级1班",
+    "subject": "数学",
+    "semester": "第一semester",
+    "score": 85
+  },
+  {
+    "id": 88,
+    "name": "赵六",
+    "class": "二年级2班",
+    "subject": "物理",
+    "semester": "第二semester",
+    "score": 72
+  },
+  {
+    "id": 89,
+    "name": "李四",
+    "class": "二年级1班",
+    "subject": "生物",
+    "semester": "第二semester",
+    "score": 89
+  },
+  {
+    "id": 90,
+    "name": "陈七",
+    "class": "二年级2班",
+    "subject": "生物",
+    "semester": "第二semester",
+    "score": 72
+  },
+  {
+    "id": 91,
+    "name": "赵六",
+    "class": "二年级1班",
+    "subject": "物理",
+    "semester": "第二semester",
+    "score": 61
+  },
+  {
+    "id": 92,
+    "name": "刘八",
+    "class": "三年级2班",
+    "subject": "语文",
+    "semester": "第二semester",
+    "score": 70
+  },
+  {
+    "id": 93,
+    "name": "杨九",
+    "class": "二年级1班",
+    "subject": "物理",
+    "semester": "第二semester",
+    "score": 70
+  },
+  {
+    "id": 94,
+    "name": "陈七",
+    "class": "二年级1班",
+    "subject": "数学",
+    "semester": "第二semester",
+    "score": 67
+  },
+  {
+    "id": 95,
+    "name": "陈七",
+    "class": "二年级2班",
+    "subject": "化学",
+    "semester": "第一semester",
+    "score": 67
+  },
+  {
+    "id": 96,
+    "name": "刘八",
+    "class": "二年级1班",
+    "subject": "生物",
+    "semester": "第一semester",
+    "score": 78
+  },
+  {
+    "id": 97,
+    "name": "吴十二",
+    "class": "一年级1班",
+    "subject": "英语",
+    "semester": "第一semester",
+    "score": 100
+  },
+  {
+    "id": 98,
+    "name": "王五",
+    "class": "一年级2班",
+    "subject": "生物",
+    "semester": "第二semester",
+    "score": 100
+  },
+  {
+    "id": 99,
+    "name": "李四",
+    "class": "三年级1班",
+    "subject": "数学",
+    "semester": "第二semester",
+    "score": 99
+  },
+  {
+    "id": 100,
+    "name": "赵六",
+    "class": "一年级2班",
+    "subject": "语文",
+    "semester": "第二semester",
+    "score": 74
+  }
+]
